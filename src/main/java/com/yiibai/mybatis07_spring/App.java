@@ -22,7 +22,7 @@ public class App
 		 System.out.println(System.getProperty("java.class.path")); 
 		 
 		ctx = new ClassPathXmlApplicationContext("config/applicationContext.xml"); //applicationContext  Configuration
-		         
+	         
 	}
     public static void main(String[] args )
     {
